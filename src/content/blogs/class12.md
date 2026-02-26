@@ -11,7 +11,9 @@ author = "Team 6"
 
 ## **Before Class Announcement**
 
-The Virginia AI Security Initiative Technical Research Team is looking for students interested in solving AI safety problems through research and projects. Complete the [general interest form](http://qrto.org/Mq0dvl)!
+The _Virginia AI Security Initiative_ Technical Research Team is looking for students interested in solving AI safety problems through research and projects. 
+
+Complete the [general interest form](http://qrto.org/Mq0dvl)!
 
 ---
 
@@ -21,13 +23,15 @@ The Virginia AI Security Initiative Technical Research Team is looking for stude
 
 [_Link to Slides_](https://docs.google.com/presentation/d/1xC4PKlqmJhZvFBMgz82HvUPdrkXskr6EoMJ7cLoNowQ/edit?usp=drivesdk)
 
-**Article:** Megan Henry. [Ohio bill would prevent people from creating AI models that encourage users to engage in self-harm](https://www.10tv.com/article/news/local/ohio-bill-prevent-creating-ai-models-encourage-users-to-engage-in-self-harm/530-1ec5cd24-2d10-4033-810a-2bbbb8fb252c). WBNS-10TV, February 21, 2026.
+**Article:** Megan Henry. [_Ohio bill would prevent people from creating AI models that encourage users to engage in self-harm_](https://www.10tv.com/article/news/local/ohio-bill-prevent-creating-ai-models-encourage-users-to-engage-in-self-harm/530-1ec5cd24-2d10-4033-810a-2bbbb8fb252c). WBNS-10TV, February 21, 2026.
 
-Team 10 covered a bill currently going through the Ohio state legislature regarding AI safety. The bill was partially inspired by at least 4 Ohio parents whose children died by suicide that had their suicide letters written by AI. The bill proposed imposing penalties up to $50k on AI companies whose models suggest harming oneself or others. All fines paid would go towards the 9-8-8 fund, the National Suicide and Crisis Lifeline.
+Team 10 covered a bill currently going through the Ohio state legislature regarding AI safety. The bill was partially inspired by at least 4 Ohio parents whose children died by suicide that had their suicide letters written by AI. 
+
+The bill proposes imposing penalties up to $50k on AI companies whose models suggest harming oneself or others. All fines paid would go towards the 9-8-8 fund, the National Suicide and Crisis Lifeline.
 
 <center style="margin: 30px">
 <img src="/images/ohio.webp" width="60%" alt="Photo of Tony Coder"><br>
-      <em>Figure 1: Tony Coder, CEO of the Ohio Suicide Prevention Foundation, speaking out in support of House Bill 524. Source: <a href=https://www.statenews.org/government-politics/2026-02-19/suicide-prevention-group-backs-bill-to-regulate-artificial-intelligence-in-ohio> The Statehouse News Bureau. </a>
+      <em>Figure 1: Tony Coder, CEO of the Ohio Suicide Prevention Foundation, speaking out in support of House Bill 524. <br>Source: <a href=https://www.statenews.org/government-politics/2026-02-19/suicide-prevention-group-backs-bill-to-regulate-artificial-intelligence-in-ohio> The Statehouse News Bureau. </a>
 </em>
 </center>
 
@@ -35,25 +39,31 @@ The bill has not yet been fully passed, but has 18 total co-sponsors in the Ohio
 
 In relation to the bill, Team 10 discussed AI’s potential application in the mental healthcare field. One Stanford study found that AI therapy is less effective than human therapists. The experimenters had therapy chatbots try to treat vignettes of people with varying symptoms of mental health conditions and also studied how chatbots reacted to users mentioning mental health symptoms in conversational context. In real life, there have been multiple instances of teenagers developing relationships with AI chatbots or getting help from AI with suicide. Although some chatbots have guardrails for these kinds of situations, some users were able to bypass safety mechanisms by changing the context or perspective of their questions.
 
-> **Discussion:** _What are your general thoughts on the intersection between AI and therapy? What role, if any, should it play?_
+**Discussion:** _What are your general thoughts on the intersection between AI and therapy? What role, if any, should it play?_
 
 One student believed the situation was context-dependent; different people seek different goals from therapy. If a person only wanted to use AI to vent, that use case would not be dangerous. Another student suggested that there are many potential applications that would not truly improve someone’s mental health, such as using AI to mimic a dead relative to avoid facing grief. One student supported this idea, explaining how the current sycophantic nature of chatbots could be dangerous by playing into users’ delusions rather than bringing them back to reality.
 
-> **Discussion:** _Government and industry pushback against the bill by citing how excessive regulation will be difficult to comply with and slow development. Who do you agree with more/less? Whose voices do you think should be taken the most seriously?_
+**Discussion:** _Government and industry pushback against the bill by citing how excessive regulation will be difficult to comply with and slow development. Who do you agree with more/less? Whose voices do you think should be taken the most seriously?_
 
 Students generally agreed with more regulation and discussed that because state legislation moves quicker than federal legislation, there should be a broad federal guideline and specific regulations per state. Additionally, AI model development should be regulated because of the energy used when training AI, which is often overlooked.
 
-> **Discussion:** _Should developers be held legally responsible for how users use their models? Is it partially the user’s fault?_
+**Discussion:** _Should developers be held legally responsible for how users use their models? Is it partially the user’s fault?_
 
-This scenario was compared to gun safety: while gun safety is important, gun manufacturers are not blamed for crimes committed using guns. In car crashes, the car manufacturer is not blamed, rather the drivers involved are. A potential solution would be to make sure the AI company has put in sufficient guardrails into their model, but beyond that any harm done is the responsibility of the user.
+This scenario was compared to guns and cars: while gun safety is important, gun manufacturers are not held liable for crimes committed using guns; in car crashes, the car manufacturer is often held liable, even when much of the cause of a crash is due to the human operators. 
 
-### **Professor Evans' Thoughts**
+A potential direction would be to make sure the AI company follows established best practices by putting in sufficient guardrails into their model, but beyond that any harm done is the responsibility of the user.
 
-Professor Evans added to the conversation about the responsibility of AI companies by mentioning how because Meta’s AI is an open-weight model, the operator is entirely responsible for what they do with the model. In comparison, OpenAI has a web interface, which places more responsibility on them for the users’ actions. Additionally, car manufacturers are liable for accidents, but being liable for damages is unrelated to having regulations. In fact, having regulations could be used to avoid liability by claiming that the law was followed despite harm being done.
+**Professor Evans' Thoughts**
 
-In regards to federal versus state regulation, having different state laws is a valid concern, but the current federal government is not very effective at passing laws. States will also follow other states; for example, California passed a privacy law inspired by the EU’s GDPR and other states followed.
+Professor Evans added to the conversation about the responsibility of "developers" is not that well defined&mdash;is it the entity that trains the model, that deploys the model, that provides a web interface around it, that sells a service to a customer? 
 
-How responsible AI companies are for their users also brings up the issue of privacy. In one case, OpenAI had evidence in chat logs from a user who later went on to conduct a school shooting in Canada, but chose not to report the user to the authorities. Should AI companies keep conversations private, or at what point can they report chat logs to the authorities?
+The distinction is raised by the earlier slide with quotes from CEOs of OpenAI and Anthropic alongside a quote from Yann LeCun, back when he was at Meta and advocating for releasing open weights models. Is the responsibility borne by a vendor that exposes a model behind an interface they control different from that borne by a developer that releases an open weight model that gets tuned and deployed by others.
+
+The liability situation for AI tools (and software in general) is still quite murky. There have been very few substantial liability judgments against software vendors, even when software clearly causes harm and was developed and released without following well established best practices. There are, as noted in the presentation, many cases currently pending against AI vendors whose tools are implicated in self harm. New regulations are not necessary to establish liability, but regulations may clarify certain issues and also may provide a defense when a vendor satisfies regulations but still causes harm.
+
+In regards to federal versus state regulation, having different state laws is a valid concern, but the current federal government is not very effective at passing laws. States will also follow other states; for example, California passed a privacy law inspired by the EU’s GDPR and other states (including Virginia) followed.
+
+How responsible AI companies are for their users also brings up the issue of privacy. In one case, OpenAI had evidence in chat logs from a user who later went on to conduct a school shooting in Canada, but chose not to report the user to the authorities. Should AI companies keep conversations private, or at what point can they report chat logs to the authorities? (See the discussion post after class for news on this.)
 
 ---
 
@@ -69,19 +79,19 @@ Team 2 covered the first two sections of Dario Amodei’s essay, The Adolescence
 
 The team defined “Technological Adolescence” as a society’s increase in capability and growth, causing instability, impulsiveness, and risk as safety regulations struggle to catch up. The team also reviewed Amodei’s definition of powerful AI and the implications of having a country of geniuses, with an accelerated feedback loop of innovation and the national security risks it could pose.
 
-> **Discussion:** _Is country of geniuses a useful metaphor, or does it distort how real systems will be deployed?_
+**Discussion:** _Is country of geniuses a useful metaphor, or does it distort how real systems will be deployed?_
 
 Students agreed this is a good metaphor because it captures how people have no idea what advanced AI will look like in the same way we do not know what a country of geniuses will look like. However, others believed that in its current state, AI is not yet capable of opinions and beliefs at this level.
 
-### **Autonomy Risks**
+### Autonomy Risks
 
 According to Amodei, models are unpredictable, and it is hard to confirm if they are aligned, so we should think about risk in terms of measurable probability. However, AI is not inherently drawn to seek power or misbehave. He suggested several defenses, including regulatory legislation, AI monitoring and diagnosis, transparency between AI companies, and predictable model personalities, such as Anthropic’s Constitution.
 
-### **Misuse for Destruction**
+### Misuse for Destruction
 
 LLMs provide more support than a search engine, making it easier for people to enact harm if they are motivated to do so such as through bioweapons. Amodei proposes defenses such as guardrails for AI companies, transparency requirements, and developing defenses against threats rather than trying to prevent them.
 
-### **Alternative Views**
+## Alternative Views
 
 The team presented four topics and assigned tables to read about each topic in depth.
 
@@ -118,6 +128,8 @@ Anthropic’s policy focuses on safety measures that scale proportional to AI ca
 > **Discussion:** _Do you think Anthropic and other big AI companies are following through on their commitments to safety? Is Anthropic’s Responsible Scaling Policy sound?_
 
 It is hard to know how much trust to place in these companies, given their business objectives. Consumers may be able to hold companies accountable. It is also difficult to see if companies are following through on their commitments given the black box nature of their models. This policy is a step in the right direction, but consumers should not blindly trust it.
+
+> **Note:** Anthropic changed its _Responsible Scaling Policy_ later that day! ([Anthropic’s Responsible Scaling Policy: Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3), 24 February 2026.)
 
 **4. Critiques on Essay**
 

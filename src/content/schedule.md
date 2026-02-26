@@ -111,12 +111,6 @@ slug = "schedule"
   <tbody>
 
   <tr>
-  <td>Tuesday 24 Feb (Class 12)</td>
-  <td>10</td>
-  <td>2</td>
-  <td>6</td>
-  </tr>
-  <tr>
   <td>Thursday 26 Feb (Class 13)</td>
   <td>11</td>
   <td>3</td>
@@ -293,6 +287,13 @@ slug = "schedule"
   <td>Love (9)</td>
   <td>Software Development (1)</td>
   <td><a href="/blogs/class11">Class 11</a> (5)</td>
+  </tr>
+
+  <tr>
+  <td>Tuesday 24 Feb (Class 12)</td>
+  <td>Ohio AI Regulation (10)</td>
+  <td>Adolescence of Technology (2)</td>
+  <td><a href="/blogs/class12">Class 12</a> (6)</td>
   </tr>
 
  </tbody>
