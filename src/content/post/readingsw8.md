@@ -22,7 +22,7 @@ Optional additional reading: The [Special Competitive Studies Project](https://w
  
 ### Reading for Thursday, 12 March
 
-- John von Neumann, [_Can we Survive Technology?_](/docs/vonNeumann1955.pdf), Fortune Magazine, 1955. [[PDF](/docs/vonNeumann1955.pdf)]
+- John von Neumann, [_Can we Survive Technology?_](/docs/vonNeumann1955.pdf), Fortune Magazine, June 1955. [[PDF](/docs/vonNeumann1955.pdf)]
 
 John von Neumann wrote this while he was a member of the US Atomic Energy Commission. If you're not familiar with von Neumann or think "inventing" the "von Neumann architecture" is among the most important things he did, you should at least skim his [Wikipedia Page](https://en.wikipedia.org/wiki/John_von_Neumann).
 
