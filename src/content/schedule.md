@@ -110,16 +110,6 @@ slug = "schedule"
   </thead>
   <tbody>
 
-  <tr style="background-color: #d1fae5;">
-  <td></td>
-  <td colspan=3 class="center-text">Spring Break</td>
-  </tr>
-  <tr>
-  <td>Tuesday 10 Mar</td>
-  <td>&ndash;</td>
-  <td>4</td>
-  <td>8</td>
-  </tr>
   <tr>
   <td>Thursday 12 Mar</td>
   <td>12</td>
@@ -300,6 +290,17 @@ slug = "schedule"
   <td>AI Safety and DoW (Dave)</td>
   <td>Adolescence of Technology II (3)</td>
   <td><a href="/blogs/class13">Class 13</a> (7)</td>
+  </tr>
+
+  <tr style="background-color: #d1fae5;">
+  <td></td>
+  <td colspan=3 class="center-text">Spring Break</td>
+  </tr>
+  <tr>
+  <td>Tuesday 10 Mar</td>
+  <td>&ndash;</td>
+  <td>4</td>
+  <td>8</td>
   </tr>
 
  </tbody>
