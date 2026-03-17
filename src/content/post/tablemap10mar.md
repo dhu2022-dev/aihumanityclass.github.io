@@ -26,7 +26,7 @@ I will talk more about the course updates based on the mid-course survey at the 
 
 3. The expectations for presenting teams (both "News" and "Lead") are now more specific:
 
-   - **Before 5:00pm** on the **day before** you are scheduled to lead (so Monday for Tuesday classes and Wednesday for Thursday classes), share your plans and draft slides with me. The "before 5pm" deadline assumes that if I am able to get you feedback before 8pm you will have time to make revisions before class. If not, you should get me the slides before noon.
+   - **Before 5:00pm** on the **day before** you are scheduled to lead (so Monday for Tuesday classes and Wednesday for Thursday classes), share your plans and draft slides with me. **You should do this in an email with all of the team members who are contributing cc'd so I can reply-all to everyone.** The "before 5pm" deadline assumes that if I am able to get you feedback before 8pm you will have time to make revisions before class. If not, you should get me the slides before noon.
 
    - **Be creative!** All presenting teams so far have followed fairly closely the same format. This isn't a bad format, but it is definitely not the best for most topics. Teams are encouraged to incroporate more interesting activities and use the class time in more varied ways.
 
