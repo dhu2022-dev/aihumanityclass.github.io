@@ -13,7 +13,7 @@ author = "Team 8"
 
 Dave's Slides: [**Class 14 Slides** (PDF)](https://www.dropbox.com/scl/fi/3zkwu4m18w0qo068sc1w7/cs4501ha-s26-class14.pdf?rlkey=by6ymy041bdulyeztjsew9udt&dl=0)
 
-Before diving into the discussion, Professor Evans went over the plan for the class moving forward to account for mid-course corrections and included an interesting recap of his own Spring Break. Over break, Prof. Evans went to San Francisco to act as an expert in [Amazon’s suit against Perplexity](https://www.forbes.com/sites/johnkoetsier/2025/11/05/amazon-vs-perplexity-welcome-to-the-battle-for-the-future-of-commerce/). This case raises the question of if we can or should hand our credentials over to AI and allow it to act on our behalf, and if so, to what extent.
+Before diving into the discussion, Professor Evans went over the plan for the class moving forward to account for mid-course corrections and included an interesting recap of his own Spring Break. Over break, Prof. Evans went to San Francisco for a hearing in [Amazon’s suit against Perplexity](https://www.forbes.com/sites/johnkoetsier/2025/11/05/amazon-vs-perplexity-welcome-to-the-battle-for-the-future-of-commerce/) (he is an expert witness in the case). 
 
 As far as the Mid-Course Survey results, 46 out of the 60 students in the class filled it out, and 93% of those students were happy with their existing table teams. 
 
