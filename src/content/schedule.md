@@ -283,13 +283,13 @@ slug = "schedule"
   <td>Tuesday 10 Mar</td>
   <td>&ndash;</td>
   <td>Autonomous War (4)</td>
-  <td><a href="/blogs/class14">Class 14</a></td>
+  <td><a href="/blogs/class14">Class 14</a> (8)</td>
   </tr>
   <tr>
   <td>Thursday 12 Mar</td>
-  <td>12</td>
-  <td>5</td>
-  <td>9</td>
+  <td>Open AI's Agreement (12)</td>
+  <td>Nuclear Weapons, Techno-Optimism (5)</td>
+  <td><a href="/blogs/class15">Class 15</a> (9)</td>
   </tr>
 
   <td>Tuesday 17 Mar</td>
