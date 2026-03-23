@@ -23,6 +23,8 @@ The class discussed how this seems like a very black-and-white situation: Anthro
 
 > **Updates:** On Friday, the DoW declared Anthropic a "supply chain risk", and OpenAI signed a contract with the DoW. This is a [developing situation](https://canvas.its.virginia.edu/courses/161890/discussion_topics/712462), and the full details of OpenAI's contract are not yet known. 
 
+**[Additional News: _From FARS to Vibe Research_](/blogs/class13-airesearch)**
+
 ## Lead Topic: The Adolescence of Technology
 
 **Presented by Group 7**  

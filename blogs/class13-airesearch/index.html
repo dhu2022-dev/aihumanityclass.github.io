@@ -1,0 +1,189 @@
+<!doctype html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>From FARS to Vibe Research | AI and Humanity</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/foundation.min.css">
+    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/highlight.min.css">
+    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/academicons.min.css">
+    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/fonts.css">
+    <link rel="stylesheet" href="https://aihumanityclass.github.io/css/finite.css">
+    <link rel="shortcut icon" href="/images/humanitylogo.png">  
+    
+  </head>
+  <body>
+      
+    <header>
+      <nav class="nav-bar">
+	
+	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">	      
+	    <button class="site-hamburger" type="button" data-toggle>
+	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+	    </button>
+	    <div class="title-bar-title site-title">
+	      <a href="https://aihumanityclass.github.io/">AI and Humanity</a>
+	    </div>
+	    <div class="title-bar-right pull-right">
+	      
+
+
+	    </div>
+	  </div>
+	    
+	  
+	    <div class="top-bar" id="site-menu" >	      
+	      <div class="top-bar-title show-for-medium site-title">
+		<a href="https://aihumanityclass.github.io/">AI and Humanity</a>
+	      </div>
+	      <div class="top-bar-left">
+		<ul class="menu vertical medium-horizontal">
+		  
+		  
+		</ul>
+	      </div>
+	      <div class="top-bar-right show-for-medium">
+		
+
+
+	      </div>
+	    </div>
+	  
+	</nav>
+      
+    </header>
+    
+    <main>
+      
+
+<div class="content">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+      <h1 itemprop="name" class="pagetitle">From FARS to Vibe Research</h1>
+      <div class="post-body" itemprop="articleBody">
+        <p><strong>Blogging Team 11</strong>: Rimon Ghebremeskel, Tapi Goredema, Yi Ping, Elijah Smith, Samrawit Yemane</p>
+<h1 id="from-fars-to-vibe-research">From FARS to Vibe Research</h1>
+<ul>
+<li><a href="TODO">ARTICLE SOURCE</a></li>
+</ul>
+<p>At the beginning of 2026, a Chinese company called Analemma finished its first experiment on the Fully Automated Research System, FARS.</p>
+<p>FARS is an AI system that can run the whole research loop by itself, including reading papers, finding ideas, writing code, running experiments, and writing papers. FARS ran about 417 hours, costing $186,000, and wrote 166 papers.</p>
+<p>Based on the result from Stanford’s Agentic Reviewer, the papers received an average score of 5.05. This is between the public average submission score for ICLR 2026 (4.21) and the average accepted score of ICLR 2026 (5.39). That means even if the system did not produce top-tier conference papers on average, it also was not just generating nonsense (assuming you can trust the scores provided by Stanford&rsquo;s Agentic Reviewer, which you should be skeptical of).</p>
+<p>The large number of papers and relatively low cost per paper (around $1120) are only part of why FARS attracted so much attention. The more crucial reason is that FARS makes a new way of doing research, <em>vibe research</em>, feel possible.</p>
+<p>Vibe research is different from traditional research, where humans do each step by themselves in several months, and it is also different from ordinary AI-assisted research, where AI mainly helps with isolated tasks such as searching for related papers, polishing writing, or programming. In vibe research, AI takes over the whole research workflow, and humans only set directions, supervise the process, and (optionally, as it turns out) check the final results.</p>
+<p>Vibe research currently is mainly focused on AI, especially in NLP and LLM research. The first reason is that the whole workflow of NLP/LLM research can be done inside the computer. The systems do not need access to the physical world. They only need to read papers, find ideas, do experiments, and write papers. These tasks can be quickly finished by AI systems. Secondly, the NLP/LLM fields have a great amount of data, including open-sourced papers, repositories, datasets, and relatively clear benchmarks. That means the systems have enough data to be trained and optimized. Thirdly, companies have incentives in these fields. If a company can use AI to improve AI faster, the payoff directly feeds back into the model itself.</p>
+<h2 id="case-studies-of-vibe-research">Case Studies of Vibe Research</h2>
+<p>FARS is a fully integrated system that operates on four specialized agents to handle the entire research process: Ideation, Planning, Experimentation, and Writing. This includes coming up with hypotheses, planning actionable outcomes, constructing experiments for collecting results, and finalizing the outcomes into a complete paper. All of this, crucially, is done without an iota of human intervention. However, FARS is not the only of its kind. There exist other AI research systems that push the process further.</p>
+<center><img src="/images/fars_fig_1.png" width=60% alt=""></img>
+<p>Figure 1: FARS organizes research into an end-to-end pipeline that moves from ideation to planning, experimentation, and writing while drawing on external tools, compute, and online resources to produce papers and code. <Br>Source: <a href="https://analemma.ai/blog/introducing-fars/">Analemma: “Introducing FARS”</a></p>
+</center> 
+<p>Google&rsquo;s <a href="TODO">AI co-scientist</a> works in a particularly different way. Rather than replacing researchers, it is designed to assist them with generating hypotheses and research proposals and overall being a &ldquo;virtual scientific collaborator,&rdquo; in Google&rsquo;s own words. Similar to FARS, it acts in a multi-agent network that iteratively creates scientific proposals and ranks them based on automated feedback to further refine them. According to Google&rsquo;s own testimony, based on expert evaluations, it was found that the outputs of ideas generated by the AI co-scientist were preferred when compared to other similar models. Furthermore, when probed to assist with predicting drug repurposing opportunities, its findings were validated through experimentation and clinician feedback.</p>
+<p>Sakana&rsquo;s <a href="TODO">The AI Scientist</a> is another automated research system that serves as a critical precursor to FARS. It goes through a similar process of generating ideas, iterating via experimentation, conducting a literature review, and finally writing complete reports. Notably, a later version was announced by Sakana to have produced a paper that passed peer review at an ICLR 2025 workshop, which is described as the first fully AI-generated paper to do so. (Note: most ICLR workshops do not have any rigorous review process or competitive selection. [TODO: did the workshop in question actually include a serious review process] [TODO: add links to the paper and workshop])</p>
+<p>Finally, <a href="TODO">Biomni</a> is an example of taking general AI-driven research into domain-specific scientific practice, particularly biomedicine. Using a unified environment containing 150 specialized tools, 105 software packages, and 59 databases, Biomni was reported to outperform baselines across diverse biomedical tasks, where it even matched or exceeded human-level performance. This suggests that AI systems are shifting from applications that can not only theorize but also produce actionable, meaningful scientific outputs.</p>
+<p>Taken together, these systems show that AI-driven research is not revolving around a single approach. Rather, they show that these systems are all moving in the same direction. [??? The previous two sentences are contradictory]
+FARS emphasizes autonomous scale and throughput, Google’s AI co-scientist hones in on collaborative hypothesis generation and validation, Sakana’s The AI Scientist focuses on automating paper production, and Biomni is about specialized scientific work and capabilities. Collectively, they are steps toward AI collaboration in science in multiple, complementary roles rather than a single automated model.</p>
+<h2 id="what-outsiders-are-saying-optimism--skepticism--transparency">What outsiders are saying: optimism + skepticism + transparency</h2>
+<p>More and more AI leaders are starting to talk about automated research as something that is close, not far off.</p>
+<p>Sam Altman has suggested that systems capable of producing real, new insights could arrive as early as 2026 [TODO: source and link]. Dario Amodei makes a similar point, especially in biology, where he believes AI could help drive major breakthroughs by taking on larger parts of the research process, not just small tasks [TODO: source and link]. At a more practical level, tools like Andrew Ng and Yixing Jiang’s <a href="TODO">Agentic Reviewer</a> already show how AI can help researchers move faster, with results that line up closely with human reviewers. Overall, the shift is clear: AI is no longer just helping with research—it is starting to change how research gets done.</p>
+<p>At the same time, the biggest concern is not whether AI can do research, but whether we can trust it while it does. Research from Anthropic’s Alignment team shows that models can quietly underperform or make misleading choices without being easily noticed, which raises real concerns about reliability. Their Claude 4 system card even outlines a point where AI could fully take on the role of an entry-level researcher, and connects that level of autonomy to potential risks, especially if it speeds up AI development itself. Even people who are optimistic about these systems recognize this tension. The same tools that could speed up discovery could also create problems if they are not carefully monitored and guided.</p>
+<p>Because of both the excitement and the concerns, institutions are already starting to adjust. A Nature Machine Intelligence editorial highlights the need for clearer explanations when using AI systems in research, especially to avoid wasting time and resources on unreliable results.</p>
+<p>Conferences are also responding. For example, ICLR 2026 now requires authors to clearly disclose how they used large language models in both papers and reviews [TODO: link to actual policy or announcement]. It warns that failing to do so or submitting AI-generated content that is misleading can lead to rejection. These changes show that AI is already reshaping research norms, even as the rules are still being figured out.</p>
+<h2 id="implications-for-research-labor-review-and-governance">Implications for research, labor, review, and governance</h2>
+<p>As AI research systems take on more of the research workflow, they will increase the number of new ideas researchers can explore, which, in turn, will place greater importance on higher-level human judgment. In <a href="https://www.orchestra-research.com/">Vibe research</a>, AI agents will handle more hands-on tasks, such as paper research, experiment setup, code execution, and drafting, while humans remain responsible for directing the process and deciding whether the outputs are credible, valuable, or worth pursuing further. This suggests an important shift in which skills are valued for students and junior researchers, with less emphasis on skills like being detail-oriented when performing each step manually, and an increased need for problem framing, verification, and research judgment. AI research systems may make research faster and more accessible, allowing us to gather knowledge much more quickly, but it also makes human insight and judgment much more important.</p>
+<p>AI’s increasing presence in research will likely allow PLS [??], labs, and research startups to run many more projects in parallel and increase the overall speed of the search output.</p>
+<p>Systems like FARS drew attention because they showed how research tasks could be organized in a queue-like workflow, producing outputs continuously. However, this increase in throughput also creates a new challenge. With an increase in research output, the main bottleneck shifted from just generating ideas to building the infrastructure needed to test, filter, and verify which results are actually meaningful as well.</p>
+<p>Google’s AI co-scientist and Biomni both reinforce this point by emphasizing testable hypotheses and lab validation [TODO: source and link], showing that scientific value still depends on careful verification rather than idea generation alone. AI may therefore help research organizations scale more efficiently, but it also raises the importance of strong validation systems.</p>
+<p>Peer review and academic publishing are already under strain, and automated research systems could make those pressures even harder to manage. Major conferences have seen a sharp rise in submissions, making it more difficult to recruit qualified reviewers and maintain a consistent standard of evaluation. <a href="https://blog.neurips.cc/2025/09/30/reflections-on-the-2025-review-process-from-the-program-committee-chairs/">NeurlPS reported that submissions increased from 9,467 in 2020 to 21,575 in 2025</a>. At the same time, ICLR 2026 has already had to respond to LLM-generated papers and low-quality AI-generated reviews, <a href="TODO">warning that misleading or undisclosed AI use may lead to desk rejection or sanctions</a>. The growth of AI-generated research is not only increasing the volume of material that reviewers and publishers must handle, but it is also deepening concerns about transparency and trust in the review process.</p>
+<center><img src="/images/fars_fig_2.png" width=60% alt=""></img>
+<p>Figure 2: Histogram of paper scores (<a href="https://blog.neurips.cc/2025/09/30/reflections-on-the-2025-review-process-from-the-program-committee-chairs/?utm_source=chatgpt.com">Link</a>)</p>
+</center> 
+<p>The above figure shows the distribution of NeurlPS paper scores, color-coded by accept and reject decisions, showing how many submissions cluster near the review boundary. It illustrates the growing difficulty of conference evaluations. [I think this is getting into an unrelated issue, not sure why you are including this, need to relate it better to your topic.]</p>
+<p>Additionally, access to automated research may not be distributed evenly, and that can create larger gaps between well-resourced institutions and underfunded ones. Some of the most visible systems in this space already depend on significant computer power, tool access, and operational infrastructure.</p>
+<p>FARS relied on a 160-GPU cluster and substantial token spending, while OpenAI has described deep research as very computing-intensive. Anthropic also treats advanced autonomous research and development as a capability threshold that requires stronger safeguards, which further suggests that these systems are not lightweight tools that every group can adopt equally.</p>
+<p>This means that the future advantages of automated research may depend on who can afford the computing infrastructure and oversight needed to use these systems effectively. For funders and universities, the challenge may therefore be not only supporting innovation, but also preventing these capabilities from deepening existing inequalities between research groups.</p>
+<p>For AI companies and platform builders, the opportunity may be less about selling a single model and more about selling complete research infrastructure. The most important systems in this space are no longer standalone tools, but broader platforms that combine agents, tools, external data, and execution environments into a unified workflow. This creates a strong commercial opportunity, since companies can market themselves as providers of the infrastructure needed to automate major parts of research. At the same time, Nature’s transparency editorial and Anthropic’s autonomy thresholds suggest that research automation must also be treated as a governance problem involving provenance, auditability, and safety evaluation. As a result, companies building these systems may be judged not only by how capable their platforms are, but also by how well they make them transparent, accountable, and safe in research contexts.</p>
+<p>For the public and policymakers, the potential upside of automated research may be especially large in fields such as science and medicine. Systems like Google’s AI co-scientist and Biomni suggest that AI could help generate useful biomedical hypotheses, support complex research tasks, and accelerate parts of scientific discovery that would otherwise take much longer. Dario Amodei makes a similar point, arguing that biology and health are among the domains with the greatest potential benefit from powerful AI. At the same time, concerns raised by ICLR and Nature show that institutions are already worried about disclosure, false claims, and wasted human or computational effort. This means that the public benefits of automated research may be substantial, but only if accountability, transparency, and oversight scale alongside capability.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The next stage of this shift will likely not be a sudden moment where AI fully replaces scientists. Instead, it will happen through gradual changes in how research is organized. Systems like FARS, Google AI co-scientist, The AI Scientist, and Biomni suggest that more parts of the research process can now be broken into repeatable workflows and delegated to AI systems. That means the biggest change may be less about whether AI can generate papers and more about how labs, conferences, and universities adapt to research being produced faster and at a much larger scale.</p>
+<p>One likely result is that the role of the human researcher will shift. Instead of performing every step manually, researchers may spend more time setting goals, checking outputs, interpreting results, and deciding which directions are worth pursuing. In that sense, AI may increase the value of judgment rather than eliminate the need for human researchers. At the same time, this transition will create pressure on institutions to build stronger norms around disclosure, verification, and accountability. If those systems do not improve quickly enough, the research world may face more low-quality work, more review overload, and more uncertainty about what can actually be trusted.</p>
+<p>For that reason, the most important question going forward is not simply how powerful AI research systems become. The more important question is whether the institutions that evaluate and govern science can keep pace with them.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li>
+<p>36Kr; OpenAI; Anthropic system card. (<a href="https://eu.36kr.com/en/p/3696795271966336">36Kr</a>)</p>
+</li>
+<li>
+<p>Orchestra; Owkin; OpenAI deep research. (<a href="https://www.orchestra-research.com/">Orchestra Research</a>)</p>
+</li>
+<li>
+<p>Google AI co-scientist; Biomni; Nature. (<a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/">Google Research</a>)</p>
+</li>
+<li>
+<p>NeurIPS 2025 PC chairs; ICLR 2026 program chairs. (<a href="https://blog.neurips.cc/2025/09/30/reflections-on-the-2025-review-process-from-the-program-committee-chairs/">NeurIPS Blog</a>)</p>
+</li>
+</ul>
+
+      </div>
+
+      <meta itemprop="wordCount" content="2394">
+      <meta itemprop="datePublished" content="2026-03-19">
+      <meta itemprop="url" content="https://aihumanityclass.github.io/blogs/class13-airesearch/">
+    </article>
+</div>
+
+
+    </main>
+    
+    
+<footer class="whatisthis">
+  <hr />
+  <div class="row">
+    <div class="column small-12 medium-6">
+      <a href="//aihumanityclass.github.io"><b>cs 4501: humAnIty</b></a><br>
+      <a href="//www.cs.virginia.edu">University of Virginia</a>
+    </div>
+    <div class="column small-14 medium-5">
+      <font size="-1">
+      Subscribe to
+	the <a href="/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a>.
+      <a id="searchsite">
+	<form method="get" action="https://duckduckgo.com/">
+	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
+	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
+	  <input type="hidden" name="sites" value="https://aihumanityclass.github.io/"/>
+	  <input type="hidden" name="k7" value="#faf8f8"/>
+	  <input type="hidden" name="kj" value="#b33"/>
+	  <input type="hidden" name="ky" value="#fafafa"/>
+	  <input type="hidden" name="kx" value="b"/>
+	  <input type="hidden" name="ko" value="-1"/>
+	  <input type="hidden" name="k1" value="-1"/>
+	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+	</form>
+      </a>
+</font>
+    </div>
+  </div>
+  </hr>
+</footer>
+
+
+    
+    <div class="endofpage">
+    </div>
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/what-input.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <script src="/js/finite.js"></script>
+
+    
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+    
+    
+  </body>
+</html>
