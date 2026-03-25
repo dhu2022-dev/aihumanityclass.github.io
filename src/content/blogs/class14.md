@@ -1,6 +1,6 @@
 +++
 date = "10 Mar 2026"
-draft = true
+draft = false
 title = "Class 14: Autonomous Weapons & AI-Enabled Warfare"
 author = "Team 8"
 +++
