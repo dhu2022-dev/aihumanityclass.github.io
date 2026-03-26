@@ -6,8 +6,8 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class 6</title>
       <link>http://localhost:1313/class-6/</link>
@@ -23,18 +23,25 @@
       <description>&lt;p&gt;Here&amp;rsquo;s the Table Teams map for this week (Feb 3 and Feb 5 classes):&lt;/p&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/tablemap-feb3.png&#34; width=&#34;80%&#34;&gt;&#xD;&#xA;&lt;/center&gt;</description>
     </item>
     <item>
+      <title>Class 17: Universal Basic Income</title>
+      <link>http://localhost:1313/blogs/class17/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/class17/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Blogging Team [3]&lt;/strong&gt;: Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder&lt;/p&gt;&#xA;&lt;h2 id=&#34;news-2025-turing-award--quantum-cryptography&#34;&gt;News: 2025 Turing Award &amp;amp; Quantum Cryptography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/widoyn6lalsj8wq0r17pv/cs4501ha-s26-class17.pdf?rlkey=vkzen2akyuka09meizenkrq9h&amp;amp;e=2&amp;amp;dl=0&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presented by:&lt;/strong&gt; Professor David Evans&lt;/p&gt;&#xA;&lt;h3 id=&#34;articles&#34;&gt;Articles&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Wiesner, S. (1983). &lt;em&gt;Conjugate Coding&lt;/em&gt;. ACM SIGACT News, 15(1).&lt;br&gt;&#xA;&lt;a href=&#34;https://aihumanityclass.github.io/docs/quantum1983.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Metz, C. (2026, March 18). &lt;em&gt;Turing Award Goes to Inventors of Quantum Cryptography&lt;/em&gt;.&lt;br&gt;&#xA;The New York Times.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html&#34;&gt;https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Brubaker, B. (2026, March 18). &lt;em&gt;Quantum Cryptography Pioneers Win Turing Award&lt;/em&gt;.&lt;br&gt;&#xA;Quanta Magazine.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/&#34;&gt;https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Levy, S. (2026, March 18). &lt;em&gt;A Quantum Leap for the Turing Award&lt;/em&gt;.&lt;br&gt;&#xA;Wired.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.wired.com/story/a-quantum-leap-for-the-turing-award/&#34;&gt;https://www.wired.com/story/a-quantum-leap-for-the-turing-award/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Class 8: Interpretability</title>
+      <link>http://localhost:1313/blogs/class8/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/class8/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Blogging Team 2&lt;/strong&gt;: Amelia Chen, Laxmi Ghanate, Ryan Russo, Shaurya Singh, Matthew Vu&lt;/p&gt;&#xA;&lt;h1 id=&#34;news-ai-super-bowl-ads&#34;&gt;News: AI Super Bowl Ads&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1WXhtrGHppLSOi9YMIZsfHN_u1dNFpsJMddmC1Y3zVwA/edit?slide=id.g3c6c41f5f1b_0_21#slide=id.g3c6c41f5f1b_0_21&#34;&gt;Slides from Team 6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Team 6&amp;rsquo;s news presentation highlighted AI Ads in the Super Bowl. Many of the ads in the Super Bowl involved AI, including ads from major AI companies (OpenAI, Anthropic, Google, Amazon/Ring, Meta), completely AI-generated ads from Svedka Vodka and Artlist, an AI toolkit for artists and creators.&lt;/p&gt;&#xA;&lt;p&gt;The ads reflected different company perspectives and cultures: Anthropic (Claude) conveys their guarantee of safety regulations and responsible scaling; Google displays its commitment to the White House risk-based approach to AI; Meta introduced their AI-supported Meta Glasses in disregard for the EU’s AI safety code of practice; Svedka claimed robots as a reminder to be pro-human; OpenAI&amp;rsquo;s ad emphasized technological progress and focused on Codex.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Class 9: Extractability</title>
       <link>http://localhost:1313/blogs/class9/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/class9/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Blogging Team [3]&lt;/strong&gt;: Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lead Topic&lt;/strong&gt;: Extractability&lt;/p&gt;&#xA;&lt;h2 id=&#34;news-retiring-gpt-4o--what-happens-when-an-ai-people-rely-on-disappears&#34;&gt;News: Retiring GPT-4o — What Happens When an AI People Rely on Disappears?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presented by Team 7&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://docs.google.com/presentation/d/1dw4NEN4B3h_jPwkH4i6W5ySxh7HxsAc7_4ruk3nlhrs/edit&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;articles-discussed&#34;&gt;Articles Discussed&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hill, K. (2025, November 6). &lt;em&gt;Lawsuits blame ChatGPT for suicides and harmful delusions.&lt;/em&gt; The New York Times.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html&#34;&gt;https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Metz, C. (2026, February 2). &lt;em&gt;A social network for A.I. bots only. No humans allowed.&lt;/em&gt; The New York Times.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html&#34;&gt;https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Class 8: Interpretability</title>
-      <link>https://aihumanityclass.github.io/blogs/class8/</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/blogs/class8/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Blogging Team 2&lt;/strong&gt;: Amelia Chen, Laxmi Ghanate, Ryan Russo, Shaurya Singh, Matthew Vu&lt;/p&gt;&#xA;&lt;h1 id=&#34;news-ai-super-bowl-ads&#34;&gt;News: AI Super Bowl Ads&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1WXhtrGHppLSOi9YMIZsfHN_u1dNFpsJMddmC1Y3zVwA/edit?slide=id.g3c6c41f5f1b_0_21#slide=id.g3c6c41f5f1b_0_21&#34;&gt;Slides from Team 6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Team 6&amp;rsquo;s news presentation highlighted AI Ads in the Super Bowl. Many of the ads in the Super Bowl involved AI, including ads from major AI companies (OpenAI, Anthropic, Google, Amazon/Ring, Meta), completely AI-generated ads from Svedka Vodka and Artlist, an AI toolkit for artists and creators.&lt;/p&gt;&#xA;&lt;p&gt;The ads reflected different company perspectives and cultures: Anthropic (Claude) conveys their guarantee of safety regulations and responsible scaling; Google displays its commitment to the White House risk-based approach to AI; Meta introduced their AI-supported Meta Glasses in disregard for the EU’s AI safety code of practice; Svedka claimed robots as a reminder to be pro-human; OpenAI&amp;rsquo;s ad emphasized technological progress and focused on Codex.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Readings for Week 6</title>
@@ -121,13 +128,6 @@
       <description>&lt;p&gt;&lt;strong&gt;Blogging Team 10&lt;/strong&gt;: Nurdin Hossain, Ruizhang Chen, Hemanth Saravanan, Pranav Goteti, Hannah Cohen&lt;/p&gt;&#xA;&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#news-data-center-resistance&#34;&gt;&lt;strong&gt;News: Data Center Resistance&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Topic: &lt;a href=&#34;#ai-2027&#34;&gt;AI2027&lt;/a&gt; and &lt;a href=&#34;#ai-as-normal-technology&#34;&gt;AI as Normal Technology&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;During our fourth class, we had riveting discussions on how AI will affect our future.&lt;/p&gt;&#xA;&lt;p&gt;Table 2 began with a discussion of data center resistance, sharing recent developments in the Virginia government regarding data center reforms. Comments from the class focused on the presence of data centers in wealthier areas as well as the potential benefits and drawbacks of data centers.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog Template</title>
-      <link>http://localhost:1313/blogs/template/</link>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/template/</guid>
-      <description>&lt;p&gt;You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.&lt;/p&gt;&#xA;&lt;p&gt;In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged!&lt;/p&gt;&#xA;&lt;p&gt;Replace this with your blog!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Blogging Team [N]&lt;/strong&gt;: &lt;em&gt;list your names how you want them to be seen&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Readings for Week 3</title>
       <link>http://localhost:1313/readings-for-week-3/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
@@ -210,13 +210,6 @@
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/welcome/</guid>
       <description>&lt;p&gt;This is a preliminary website for the cs4501: AI and Humanity course to be offered in Spring 2026.&lt;/p&gt;&#xA;&lt;p&gt;More information will be posted soon, but feel free to contact me (&lt;a href=&#34;mailto:evans@virginia.edu&#34;&gt;evans@virginia.edu&lt;/a&gt;) with any questions about the course.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Meetings:&lt;/strong&gt; Tuesdays and Thursdays, 9:30-10:45am in Olsson 018.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Official Prerequisite:&lt;/strong&gt; Completed CS 2100 (DSA1) with a grade of C- or better. (I will make exceptions to this if you have an interest in taking the class and have sufficient background in computing.)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quotes</title>
-      <link>http://localhost:1313/quotes/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/quotes/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Can we produce the required adjustments with the necessary speed? The most hopeful answer is that the human species has been subjected to similar tests before and seems to have a congenital ability to come through, after varying amounts of trouble. To ask in advance for a complete recipe would be unreason able. We can specify only the human qualities required: patience, flexibility, intelligence.&lt;/em&gt;.&#xA;John von Neumann, &lt;a href=&#34;https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf&#34;&gt;Can we survive technology?&lt;/a&gt;, 1955.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

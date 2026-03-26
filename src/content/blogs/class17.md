@@ -1,12 +1,13 @@
 +++
-date = "19 March 2026"
+date = "2026-03-19"
 title = "Class 17: Universal Basic Income"
-author = "Team [Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder]"
+author = "Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder"
 +++
 
 **Blogging Team [3]**: Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder
 
-## News: 2025 Turing Award & Quantum Cryptography [Slides](https://www.dropbox.com/scl/fi/widoyn6lalsj8wq0r17pv/cs4501ha-s26-class17.pdf?rlkey=vkzen2akyuka09meizenkrq9h&e=2&dl=0)
+## News: 2025 Turing Award & Quantum Cryptography 
+[Slides](https://www.dropbox.com/scl/fi/widoyn6lalsj8wq0r17pv/cs4501ha-s26-class17.pdf?rlkey=vkzen2akyuka09meizenkrq9h&e=2&dl=0)
 
 **Presented by:** Professor David Evans  
 
@@ -41,12 +42,16 @@ Quantum cryptography is often described as the future of secure communication, b
 Source: Bharadwaja, S. (2021). An Emphasis on Quantum Cryptography and Quantum Key Distribution
 </center>
 
+---
+
 For example, a vertically polarized photon will always pass through a vertical filter but never through a horizontal one, while a 45° filter only lets it pass about 50% of the time. If you send a stream of photons, about half will pass through mismatched filters, and the ones that pass will adopt the filter’s polarization. This ability to control and test photon polarization is what makes quantum encoding possible.
+
 These ideas led to the concept of quantum money, banknotes encoded with a secret sequence of photon polarizations known only to the bank. To authenticate a note, the bank uses matching filters (vertical, horizontal, or angled). Correctly aligned photons pass with near 100% accuracy, while diagonal ones pass about 50%, creating a recognizable pattern. However, the key challenge is that you cannot measure the sequence without disturbing it, any attempt to copy or learn it destroys the information. Even if a photon passes through a filter, you cannot tell whether it was correctly aligned or just passed by chance. This makes quantum money theoretically unforgeable but impractical, since authentication destroys the note and the quantum states are difficult to store. A more practical application is Quantum Key Distribution (QKD), where two parties share a secret sequence of polarization filters to securely communicate. Any eavesdropping introduces detectable errors because measurement alters the photons. Still, QKD requires expensive, specialized infrastructure, is sensitive to noise and distance, and competes with strong classical encryption. As a result, despite heavy investment, quantum cryptography remains powerful in theory but limited in practice.
 
 ---
 
-## Lead Team Presentation: AI, Automation, and Universal Basic Income [Slides](https://docs.google.com/presentation/d/1IHQ2mNCiK1Zhkc0y5FjKCvQ_xsgEhsYlxHavihtIvzU/edit?slide=id.p#slide=id.p)
+## Lead Team Presentation: AI, Automation, and Universal Basic Income 
+[Slides](https://docs.google.com/presentation/d/1IHQ2mNCiK1Zhkc0y5FjKCvQ_xsgEhsYlxHavihtIvzU/edit?slide=id.p#slide=id.p)
 
 **Presented by:** Group 7  
 
@@ -78,7 +83,9 @@ Another common criticism is more emotional: “Junkies, alcoholics, scam artists
 
 <center>
 <img src="/images/income.png" width=60% alt=""></img><br>
-Source: Rodríguez, M. (2023). Universal Basic Income: Is It Already Here? LinkedIn. Figure retrieved from: https://www.linkedin.com/pulse/universal-basic-income-already-here-miguel-rodriguez-pmvve/ 
+Rodríguez, M. (2023). Universal Basic Income: Is It Already Here? LinkedIn. Figure retrieved from: 
+
+(Source: [Linkedin](https://www.linkedin.com/pulse/universal-basic-income-already-here-miguel-rodriguez-pmvve/))
 </center>
 
 ---
@@ -106,23 +113,27 @@ The team then presented several real‑world UBI pilot programs:
 
 <center>
 <img src="/images/tax.png" width=60% alt=""></img><br>
-Source: LessWrong Community. (n.d.). What You Really Mean When You Claim to Support UBI for Job Loss. LessWrong. Figure retrieved from: https://www.lesswrong.com/posts/8CY9TCK2oaGPrDheY/what-you-really-mean-when-you-claim-to-support-ubi-for-job 
+LessWrong Community. (n.d.). What You Really Mean When You Claim to Support UBI for Job Loss. LessWrong. Figure retrieved from: 
+
+(Source: [Lesswrong](https://www.lesswrong.com/posts/8CY9TCK2oaGPrDheY/what-you-really-mean-when-you-claim-to-support-ubi-for-job))
 </center>
 
+---
 Across all programs, the most consistent benefits were lower stress and financial anxiety, higher life satisfaction, better ability to plan for the future, improved health and education outcomes (especially in developing regions). This demonstrated how UBI could help maintain a baseline quality of life.
 
 To explore these results further, the lead team conducted a Menti Poll asking the following questions: 
 
 - If AI and automation eliminate a large number of jobs, should the government provide UBI?
-        - Yes: 19 students
-        - No: 8 students
+    - Yes: 19 students
+    - No: 8 students
         - Students who were unsure raised thoughtful concerns about uncertainty about large‑scale implementation, fear that UBI might preserve a flawed economic system instead of encouraging a better one, hope for alternatives like Universal Basic Capital (UBC), where people build wealth through shared investment funds, belief that regulation could prevent job loss in the first place
         - The “no” group had two main arguments: Why should middle‑ and upper‑class people get UBI if they don’t need it? People shouldn’t get money if they don’t contribute to society.
         - Additional points of pushback included questions such as 
-                - If robots eventually do most blue‑collar jobs, what happens when there are no traditional ways to “contribute”?
-                - Just because we can automate everything doesn’t mean we should
-                - If there are no productive jobs left, how do we rethink incentives, purpose, and meaning?
+            - If robots eventually do most blue‑collar jobs, what happens when there are no traditional ways to “contribute”?
+            - Just because we can automate everything doesn’t mean we should
+            - If there are no productive jobs left, how do we rethink incentives, purpose, and meaning?
 - The class then discussed lobbying and how difficult it would be to pass UBI if large firms oppose it. One student raised a deeper question: What is the purpose of life: to produce, or to live? COVID shifted many people’s values toward recreation, family, and well‑being rather than constant productivity
+---
 
 <center>
 <img src="/images/class_shot.png" width=60% alt=""></img><br>
