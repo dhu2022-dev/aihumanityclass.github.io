@@ -293,7 +293,7 @@ slug = "schedule"
   </tr>
   <tr>
   <td>Thursday 19 Mar</td>
-  <td>&ndash;</td>
+  <td>Quantum Cryptography</td>
   <td>Universal Basic Income (7)</td>
   <td><a href="/blogs/class17">Class 17</a> (3)</td>
   </tr>
