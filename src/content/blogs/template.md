@@ -1,6 +1,7 @@
 +++
 date = "21 Jan 2026"
 draft = true
+exclude_from_list = true
 title = "Blog Template"
 author = "Team [your team]"
 +++

@@ -14,8 +14,10 @@
     </div>
 
     <ul class="blog-list">
-      {{ range .Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ range .Pages.Reverse }}
+          {{ if not .Params.exclude_from_list }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
       {{ end }}
     </ul>
 

@@ -110,99 +110,47 @@ slug = "schedule"
   </thead>
   <tbody>
 
-  <tr>
-  <td>Tuesday 17 Feb</td>
-  <td>8</td>
-  <td>12</td>
-  <td>4</td>
-  </tr>
-  <tr>
-  <td>Thursday 19 Feb</td>
-  <td>9</td>
-  <td>1</td>
-  <td>5</td>
-  </tr>
-  <tr>
-  <td>Tuesday 24 Feb</td>
-  <td>10</td>
-  <td>2</td>
-  <td>6</td>
-  </tr>
-  <tr>
-  <td>Thursday 26 Feb</td>
-  <td>11</td>
-  <td>3</td>
-  <td>7</td>
-  </tr>
-  <tr style="background-color: #d1fae5;">
-  <td></td>
-  <td colspan=3 class="center-text">Spring Break</td>
-  </tr>
-  <tr>
-  <td>Tuesday 10 Mar</td>
-  <td>12</td>
-  <td>4</td>
-  <td>8</td>
-  </tr>
-  <tr>
-  <td>Thursday 12 Mar</td>
-  <td>1</td>
-  <td>5</td>
-  <td>9</td>
-  </tr>
-  <tr>
-  <td>Tuesday 17 Mar</td>
-  <td>2</td>
-  <td>6</td>
-  <td>10</td>
-  </tr>
-  <tr>
-  <td>Thursday 19 Mar</td>
-  <td>3</td>
-  <td>7</td>
-  <td>11</td>
-  </tr>
-  <tr>
-  <td>Tuesday 24 Mar</td>
-  <td>4</td>
-  <td>8</td>
-  <td>12</td>
-  </tr>
+  
   <tr>
   <td>Thursday 26 Mar</td>
-  <td>5</td>
+  <td>&ndash;</td>
   <td>9</td>
   <td>1</td>
   </tr>
   <tr>
   <td>Tuesday 31 Mar</td>
-  <td colspan=3 class="center-text">Review and Recap</td>
+  <td>&ndash;</td>
+  <td>&ndash;</td>
+  <td>5</td>
   </tr>
   <tr>
   <td>Thursday 2 Apr</td>
-  <td colspan=3 class="center-text">Midterm</td>
-  </tr>
-  <tr>
-  <td>Tuesday 7 Apr</td>
-  <td>6</td>
+  <td>3</td>
   <td>10</td>
   <td>2</td>
   </tr>
   <tr>
-  <td>Thursday 9 Apr</td>
-  <td>7</td>
+  <td>Tuesday 7 Apr</td>
+  <td>4</td>
   <td>11</td>
-  <td>3</td>
+  <td>7</td>
+  </tr>
+  <tr>
+  <td>Thursday 9 Apr</td>
+  <td colspan=2>"Midterm"</td>
+  <td>8</td>
   </tr>
   <tr>
   <td>Tuesday 14 Apr</td>
-  <td>8</td>
+  <td>&ndash;</td>
   <td>12</td>
   <td>4</td>
   </tr>
-  <tr style="background-color: #faf3d1ff;">
+  <tr>
   <td>Thursday 16 Apr</td>
-  <td colspan=3 class="center-text">Project Draft Presentations</td>
+  <td>&ndash;</td>
+  <td>&ndash;</td>
+  <td>6</td>
   </tr>
   <tr style="background-color: #effad1ff;">
   <td>Tuesday 21 Apr</td>
@@ -289,10 +237,84 @@ slug = "schedule"
   </tr>
   <tr>
   <td>Thursday 12 Feb</td>
-  <td>7</td>
-  <td>11</td>
-  <td>3</td>
+  <td>Retiring GPT-4o (7)</td>
+  <td>Extractability (11)</td>
+  <td><a href="/blogs/class9/">Class 9</a> (3)</td>
+  </tr>
+  <tr>
+  <td>Tuesday 17 Feb</td>
+  <td>Labor (8)</td>
+  <td>Software Development (12)</td>
+  <td><a href="/blogs/class10">Class 10</a> (4)</td>
+  </tr>
+
+  <tr>
+  <td>Thursday 19 Feb (Class 11)</td>
+  <td>Love (9)</td>
+  <td>Software Development (1)</td>
+  <td><a href="/blogs/class11">Class 11</a> (5)</td>
+  </tr>
+
+  <tr>
+  <td>Tuesday 24 Feb (Class 12)</td>
+  <td>Ohio AI Regulation (10)</td>
+  <td>Adolescence of Technology I (2)</td>
+  <td><a href="/blogs/class12">Class 12</a> (6)</td>
+  </tr>
+
+  <tr>
+  <td>Thursday 26 Feb (Class 13)</td>
+  <td>AI Safety and DoW (Dave)</td>
+  <td>Adolescence of Technology II (3)</td>
+  <td><a href="/blogs/class13">Class 13</a> (7)</td>
+  </tr>
+
+  <tr style="background-color: #d1fae5;">
+  <td></td>
+  <td colspan=3 class="center-text">Spring Break</td>
+  </tr>
+  <tr>
+  <td>Tuesday 10 Mar</td>
+  <td>&ndash;</td>
+  <td>Autonomous War (4)</td>
+  <td><a href="/blogs/class14">Class 14</a> (8)</td>
+  </tr>
+  <tr>
+  <td>Thursday 12 Mar</td>
+  <td>Open AI's Agreement (12)</td>
+  <td>Nuclear Weapons, Techno-Optimism (5)</td>
+  <td><a href="/blogs/class15">Class 15</a> (9)</td>
+  </tr>
+
+  <td>Tuesday 17 Mar</td>
+  <td>QuitGPT (1)</td>
+  <td>Jobs for Humans (6)</td>
+  <td><a href="/blogs/class16/">Class 16</a> (10)</td>
+  </tr>
+  <tr>
+  <td>Thursday 19 Mar</td>
+  <td>&ndash;</td>
+  <td>Universal Basic Income (7)</td>
+  <td><a href="/blogs/class17">Class 17</a> (3)</td>
+  </tr>
+  <tr>
+  <td>Tuesday 24 Mar</td>
+  <td>Looksmaxxing (2)</td>
+  <td>Creativity (8)</td>
+  <td><a href="/blogs/class18">Class 18</a> (12)</td>
   </tr>
 
  </tbody>
 </table>
+
+## Expectations
+
+(Last updated on [9 March](/tablemap-10mar/).)
+
+The expectations for presenting teams (both "News" and "Lead"):
+
+   - **Before 5:00pm** on the **day before** you are scheduled to lead (so Monday for Tuesday classes and Wednesday for Thursday classes), share your plans and draft slides with me. **You should do this in an email with all of the team members who are contributing cc'd so I can reply-all to everyone.** The "before 5pm" deadline assumes that if I am able to get you feedback before 8pm you will have time to make revisions before class. If not, you should get me the slides before noon.
+
+   - **Be creative!** All presenting teams so far have followed fairly closely the same format. This isn't a bad format, but it is definitely not the best for most topics. Teams are encouraged to incroporate more interesting activities and use the class time in more varied ways.
+
+   - **Better presentations.** I will provide some more guidance on general ways to improve presentations in Tuesday's class (and maybe more in later classes), and although you are not required to follow everything I say it is expected that you'll design presentations in ways that are mindful of it. 

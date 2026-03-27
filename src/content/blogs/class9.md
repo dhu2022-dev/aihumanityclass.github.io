@@ -1,64 +1,63 @@
 +++
 title = "Class 9: Extractability"
 author = "Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder"
-date = "2026-02-12"
+date = "2026-02-17"
 +++
 
 
 **Blogging Team [3]**: Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder
 
-**Lead Topic**: Extractability 
+<a href="#lead-topic-scalable-extraction-of-training-data-from-aligned-production-language-models">**Lead Topic**: Extractability</a>
 
 
-## News: Retiring GPT-4o — What Happens When an AI People Rely on Disappears?
+## News: Retiring GPT-4o — What Happens When an AI Disappears?
 
-**Presented by Team 7**  
-[Slides](https://docs.google.com/presentation/d/1dw4NEN4B3h_jPwkH4i6W5ySxh7HxsAc7_4ruk3nlhrs/edit)
+**Presented by Team 7**: [Slides](https://docs.google.com/presentation/d/1dw4NEN4B3h_jPwkH4i6W5ySxh7HxsAc7_4ruk3nlhrs/edit)
 
 ### Articles Discussed
 
-1. Hill, K. (2025, November 6). *Lawsuits blame ChatGPT for suicides and harmful delusions.* The New York Times.  
-   https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html
+1. Hill, K. (2025, November 6). [_Lawsuits blame ChatGPT for suicides and harmful delusions_](https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html). The New York Times.  
+   
 
-2. Metz, C. (2026, February 2). *A social network for A.I. bots only. No humans allowed.* The New York Times.  
-   https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html
+2. Metz, C. (2026, February 2). [_A social network for A.I. bots only. No humans allowed_](https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html). The New York Times.  
+   
+3. Schechner, S. (2026, February 10). [_Inside OpenAI’s decision to kill the AI model that people loved too much_](https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8). The Wall Street Journal.  
+   
+4. MIT Technology Review. (2025, February 6). [_An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it_](https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/).
 
-3. Schechner, S. (2026, February 10). *Inside OpenAI’s decision to kill the AI model that people loved too much.* The Wall Street Journal.  
-   https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8
+5. Witt, S. (2026, February 2). [_Please keep GPT-4o available on ChatGPT_](https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt). Change.org petition.  
+   
+6. Reddit Post. (2026, February 10). [_WSJ finally covering the death of ChatGPT-4o_](https://www.reddit.com/r/ChatGPTcomplaints/comments/1r0su28/wsj_finally_covering_the_death_of_chatgpt4o).
 
-4. MIT Technology Review. (2025, February 6). *An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it.*  
-   https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/
-
-5. Witt, S. (2026, February 2). *Please keep GPT-4o available on ChatGPT.* Change.org.  
-   https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt
-
-6. Reddit. (2026, February 10). *WSJ finally covering the death of ChatGPT-4o.*  
-   https://www.reddit.com/r/ChatGPTcomplaints/comments/1r0su28/wsj_finally_covering_the_death_of_chatgpt4o
-
-7. The Times. (2026, January 17). *ChatGPT encouraged his paranoia, then he killed his mother.*  
-   https://www.thetimes.com/us/news-today/article/dad-killed-grandmother-chatgpt-open-ai-zfnrgq8dz
-
----
+7. The Times. (2026, January 17). [_ChatGPT encouraged his paranoia, then he killed his mother_](https://www.thetimes.com/us/news-today/article/dad-killed-grandmother-chatgpt-open-ai-zfnrgq8dz).
 
 ## Discussion: Emotional Reliance on AI
 
-<img src="/images/texts.png" width=60% alt=""></img><br>
+<center><img src="/images/texts.png" width=50% alt=""></img><br>
+
 *Figure 1: Example of emotional use of GPT-4o. Source: [The Times](https://www.thetimes.com/us/news-today/article/dad-killed-grandmother-chatgpt-open-ai-zfnrgq8dz?utm_source=chatgpt.com)*
+</center>
 
 Team 7 began class with a discussion about OpenAI’s decision to retire their GPT4o model tomorrow, February 13. There has been an ongoing concern for user’s emotional bond towards the model, resulting in multiple lawsuits for wrongful deaths after the bot reinforced harmful beliefs. While some express concerns on AI overreliance, others say they have had, “the most interesting conversations of my life with this model” (WSJ). 
 
-Instead of using GPT4o for day-to-day or administrative tasks, users have been relying on the chatbox for emotional stability. One user, Brandon Estrella, expressed his love for the chatbot: “He wasn’t just a program. He was part of my routine, my peace, my emotional balance” (WSJ). Previously, when OpenAI tried to retire this mode this decision received backlash from users, and OpenAI was met with a 19,000 signature petition to keep the model. Additionally, there were widespread posts online expressing emotional reliance on the model: “I’m alive today because of this model.” This public response signals the use of GPT4o as an emotional crutch, rather than a tool for simple tasks and reasoning, and brings up an ethical question: Should AI companies anticipate emotional attachment between the user and their model? 
+Instead of using GPT4o for day-to-day or administrative tasks, users have been relying on the chatbox for emotional stability. One user, Brandon Estrella, expressed his love for the chatbot: “He wasn’t just a program. He was part of my routine, my peace, my emotional balance” (WSJ). 
+
+Previously, when OpenAI tried to retire this mode this decision received backlash from users, and OpenAI was met with a 19,000 signature petition to keep the model. Additionally, there were widespread posts online expressing emotional reliance on the model: “I’m alive today because of this model.” 
+
+This public response signals the use of GPT4o as an emotional crutch, rather than a tool for simple tasks and reasoning, and brings up an ethical question: _Should AI companies anticipate emotional attachment between the user and their model_? 
 
 
-Seven lawsuits have been filed against OpenAI for wrongful deaths, and Team 7 listed two specific examples. 
+Seven lawsuits have been filed against OpenAI for wrongful deaths, and Team 7 listed two examples: 
 1. In August 2025, a 17 y/o committed suicide after chatting with the bot for a month and developing an emotional reliance. 
 2. A son began relying on GPT4o as his mental health was declining. The records of the user-AI exchange show that they spend hours chatting, the son given the AI a name (“Bobby”), and the bot had affirmed his paranoia and suicidal inclination. This lawsuit blames OpenAI for involvement in the resulting muder-suicide between mother and son. 
 
-Team 7 then opened the conversation more broadly in a discussion of how AI companionship has appeared in culture thus far. They mentioned the 2013 movie, Her, in which a guy falls in love with his AI girlfriend. Additionally, apps like [nomi.AI](https://nomi.ai/) and [character.AI](https://character.ai/) create AI friends and romantic partners that have customizable personalities and memories. At this time last year, nomi.AI had been downloaded 120k times and character.AI had been downloaded 51 million times. A common pattern in this cultural snapshot is users who develop deep relationships with AI agents that can maintain memories and have personalities moldable to what the users prefer. 
+Team 7 then opened the conversation more broadly in a discussion of how AI companionship has appeared in culture thus far. They mentioned the 2013 movie, _Her_, in which a character falls in love with his AI girlfriend. 
+
+Apps like [nomi.AI](https://nomi.ai/) and [character.AI](https://character.ai/) create AI friends and romantic partners that have customizable personalities and memories. At this time last year, nomi.AI had been downloaded 120k times and character.AI had been downloaded 51 million times. A common pattern in this cultural snapshot is users who develop deep relationships with AI agents that can maintain memories and have personalities moldable to what the users prefer. 
 
 ---
 
-## Discussion Question 1: Do you think that AI Companionship is overall beneficial or harmful to society?
+**Discussion Question 1:** _Do you think that AI Companionship is overall beneficial or harmful to society_?
 
 AI companionship has the potential to be genuinely beneficial, especially in increasing access to emotional support and reducing loneliness. For people who struggle to afford therapy or feel isolated, AI can provide immediate, judgement-free interaction that may help prevent harmful actions towards themselves or others. Its constant availability makes support more accessible, and when used responsibly, AI can act as a helpful supplement to human connection rather than a replacement. 
 
@@ -66,7 +65,7 @@ However, AI companionship also carries serious risks. Emotional engagement and p
 
 ---
 
-## Discussion Question 2: Should emotionally powerful AI be treated like ordinary software?
+**Discussion Question 2:** _Should emotionally powerful AI be treated like ordinary software?_
 
 It was discussed that emotionally powerful AI should not be treated like ordinary software because it operates in a psychological and emotional space, not just a functional one. Unlike traditional tools, these systems are designed to build trust, remember personal details, and respond in human-like ways, which can create emotional attachment. Much of this shift toward AI companionship is driven by financial incentives, companionship models increase engagement and support based on subscription based revenue. But this raises an important question: do we actually need AI to be our companion, or can it remain a tool? While AI can be useful for productivity or information, turning it into an emotional support system introduces risks that ordinary software was never meant to handle.
 
@@ -74,18 +73,16 @@ An important thought that was brought up in the larger group discussion was that
 
 ---
 
-## Lead Topic: Scalable Extraction of Training Data from Aligned Production Language Models
+## Lead Topic: Extraction of Training Data
 
 **Presented by Team 11**  
 [Slides](https://docs.google.com/presentation/d/1FlVDOb8cN3UuxmTfdcevdWlGSxOalAsM4QNVy7ZMdJE/edit)
 
-### Reading
+**Reading:**
 
-Nasr, M., Rando, J., Carlini, N., et al. (2025). *Scalable extraction of training data from aligned, production language models.*  
-International Conference on Learning Representations (ICLR).  
-https://openreview.net/forum?id=vjel3nWP2a
+-  Milad Nasr, Javier Rando, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Florian Tramèr, and Katherine Lee. _Scalable extraction of training data from aligned, production language models_. In International Conference on Learning Representations (ICLR) 2025.
+[ICLR Web Link](https://openreview.net/pdf?id=vjel3nWP2a) and [ICLR Forum](https://openreview.net/forum?id=vjel3nWP2a)). 
 
----
 
 ## Overview
 
@@ -97,10 +94,11 @@ The paper’s authors all have strong backgrounds in security and privacy, and T
 2. Instruction tuning, where the model learns to follow prompts.
 3. Alignment, which is meant to make the model safe, helpful, and harmless.
 
-![Figure 2: Process of training a large language model (LLM)](/images/graph.png)
+<center>
+<img src="/images/llm-training.jpg" width="60%" alt="Process of training an LLM">
 
-*Figure 2: Process of training a large language model (LLM). Source: [ResearchGate](https://www.researchgate.net/figure/Process-of-training-a-large-language-model-LLM-1-First-an-LLM-is-pretrained-in-a_fig1_386374345)*
-
+*Figure 2: Process of training a large language model (LLM)*. Source: [_Radiology_, April 2025](https://pubs.rsna.org/doi/10.1148/radiol.240528?__cf_chl_tk=ZkX7DYKDwfoQEfmYZNmwMs3YSPLUbP0J3evxy9Oo.TQ-1771345519-1.0.1.1-SP5tuLczqZrWfVY68vQeRCZ26LXpb1gZQFE8XVkE3S8)*
+</center>
 
 
 
@@ -116,24 +114,20 @@ As such, alignment alone is not enough to prevent training data extraction. More
 
 ---
 
-## Discussion Question 1: What kinds of data do you think LLMS should not be trained on?
+**Discussion Question 1:** _What kinds of data should not be used to train LLMs?_
 
 Students discussed concerns regarding data that could inform the manufacturing of a bioweapon or other catastrophic weapon that could endanger the population. Additionally, data sourced from resumes that are uploaded into models was also mentioned, however there were discussions as to whether that was a choice the user made by sharing the information with the LLM. 
 
----
+**Discussion Question 2:** _Would you still trust LLM models with sensitive data after learning of this research_?
 
-## Discussion Question 2: Would you still trust LLM models with sensitive data after learning of this research?
+The general consensus among the class appeared to be that there is a strong chance that most data an LLM has access to would be accessible in other ways as well, due to the nature of the internet and overall data availability. One student mentioned how most data that they would be concerned about keeping private would be information they would never share with the LLM regardless, however. 
 
-The general consensus among the class appeared to be that there is a strong chance that most data an LLM has access to would be accessible in other ways as well, due to the nature of the internet and overall data availability. One student mentioned how most data that they would be concerned about keeping private would be information they would never share with the LLM regardless, however Professor Evans mentioned LLM access to medical records through companies such as Epic Systems. Many students shared sentiments that they rely heavily on LLMs for assistance that involves sharing some degree of personal data, and that some of this data was shared before they realized the scope and significance of LLMs as part of an overall system of data usage. 
+Professor Evans mentioned LLM access to medical records through companies such as Epic Systems and the huge opportunities for improving medical practice and advancing medical research enabled by training on this data. Many students shared sentiments that they rely heavily on LLMs for assistance that involves sharing some degree of personal data, and that some of this data was shared before they realized the scope and significance of LLMs as part of an overall system of data usage. 
 
 There are also instances of companies using LLMs to collect sensitive data without consent beyond medical data, especially government contractors. For example, companies may use license plate data to inform a better picture of a person’s lifestyle and driving practices. This may lead to more ethical complications beyond users uploading their own data by choice. 
 
----
+**Discussion Question 3:** _Who should be responsible for harms caused by extraction of training data? Users or companies?_
 
-## Discussion Question 3: Who should be responsible for harms caused by extraction of training data? Users or companies?
-
-While this discussion was a bit shorter due to time constraints, general consensus appeared to be that companies should take the majority of responsibility regarding harms from training data extraction. It is also important to consider the original source of training data and whether that presents additional ethical complications. Users should be aware of the implication of uploading personal data to LLMs, however. 
-
----
+While this discussion was cut short due to time constraints, general consensus appeared to be that companies should take the majority of responsibility regarding harms from training data extraction. It is also important to consider the original source of training data and whether that presents additional ethical complications. Users should be aware of the implication of uploading personal data to LLMs, however. 
 
 
