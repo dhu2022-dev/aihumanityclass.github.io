@@ -1,9 +1,9 @@
 +++
-date = "21 Jan 2026"
+date = "26 Mar 2026"
 draft = true
 exclude_from_list = true
-title = "Blog Template"
-author = "Team [your team]"
+title = "Class 19"
+author = "Team 1"
 +++
 
 You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
