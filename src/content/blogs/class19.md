@@ -12,7 +12,9 @@ In general, writing for the web is different from writing for other media. You s
 
 Replace this with your blog!
 
-**Blogging Team [N]**: _list your names how you want them to be seen_
+**Blogging Team 1**: Amanda Appiah-Yeboah, Srikar Bangaru, Sarah Francis, Tristan Grubbs, Matthew Janicki
+
+<img src="/images/Meta_ruling.png" alt="Meta ruling, February 19th"></img>
 
 # Marking Big Heading
 
