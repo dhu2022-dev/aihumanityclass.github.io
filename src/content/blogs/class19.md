@@ -23,7 +23,7 @@ Replace this with your blog!
 - https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict
 
 <center>
-<img src="/images/Meta_ruling.png" alt="Meta ruling, February 19th"></img>
+<img src="/images/Meta_ruling.png" width=80% alt="Meta ruling, February 19th"></img>
 Figure 1: Mark Zuckerberg leaves the Courthouse after defending Meta on February 19th.
 </center>
 
@@ -53,14 +53,14 @@ Humans bring meaning into the world through their interactions with other people
 The next activity had the class drawing to the prompt: “Draw a kitchen table, ready for dinner. It has plates, napkins, utensils and cups.” After we finished drawing, we shared out and then looked at how AI drew this prompt.
 
 <center>
-<img src="/images/AI_Drawn_Table.png" alt="Ai drawn table"></img>
+<img src="/images/AI_Drawn_Table.png" width=80% alt="Ai drawn table"></img>
 Figure 2: AI-generated image responding to the aforementioned prompt.
 </center>
 
 While human art has many different merits to it, AI art is definitely a lot faster than we are, and much more skilled than the average human is at drawing. After that, our next prompt was simply: “Draw a really good day.” This prompt demonstrated how varied human perspective is, as there were countless different interpretations of a “good day”.
 
 <center>
-<img src="/images/Human_Drawn_Table.png" alt="Human drawn table"></img>
+<img src="/images/Human_Drawn_Table.png" width=80% alt="Human drawn table"></img>
 Figure 2: Sarah's interpretation of a really good day.
 </center>
 
